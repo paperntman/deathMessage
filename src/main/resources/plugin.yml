@@ -1,0 +1,7 @@
+name: ConfigureDeathmessage
+version: '${project.version}'
+main: topen.deathmessage.configuredeathmessage.Main
+api-version: 1.19
+
+commands:
+  topen:
